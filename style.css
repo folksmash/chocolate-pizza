@@ -1,0 +1,161 @@
+#logoAndDeli
+{
+    width: 200px;
+    float: left;
+}
+
+.logo
+{
+    float: left;
+    width: 42px;
+}
+
+#deli
+{
+    font-family:'Yellowtail', cursive;
+    font-size: 2.5em;
+    margin-left: 50px;
+    margin-top:auto;
+    margin-bottom: auto;
+    width: 200px;
+}
+
+li#social
+{
+    display: inline;
+}
+
+.social
+{
+    text-align: right;
+    flex: 50%;
+    padding-right: 50px;
+}
+
+header
+{
+    display: flex;
+    width: 100vw;
+    margin: 20px;
+    
+
+}
+
+p#slogan
+{
+    font-size: 10px;
+    width: 200px;
+    margin-top: auto;
+}
+
+h3#date
+{
+    font-size: 0.55em;
+}
+
+#topBorder 
+{
+    height: 9px;
+    width: 100%;
+    margin: 1px;
+    background-image:
+     repeating-linear-gradient(
+       45deg,
+       white,
+       white 2px,
+       rgb(228, 231, 198) 1px,
+       rgb(207, 189, 189) 3px /* determines size */
+     );
+}
+
+#leftList
+{
+    float: left;
+}
+
+#rightList
+{
+    margin-left: 500px;
+}
+
+#recipe
+{
+    margin-left: 900px;
+    margin-right: 100px;
+    margin-top: 25px;
+    width: 1000px;
+    background-image: url(assets/list-bg.png);
+    background-repeat: no-repeat;
+    font-size: 35px
+}
+
+.centering
+{
+    text-align: center;
+    width: 100%;
+    margin-left: 0px;
+    margin-right: 100px;
+}
+
+
+#cake
+{
+    width: 100%;
+    text-align: center;
+}
+
+#paragraphs
+{
+    width: 35%;
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+#ShareButton
+{
+    padding: 10px;
+    color: rgb(228, 231, 198);
+    font-size: 1.2em;
+    background-color: rgb(211, 142, 96);
+}
+
+#bottomLine
+{
+    height: 9px;
+    width: 100%;
+    margin: 1px;
+    background-image:
+     repeating-linear-gradient(
+       45deg,
+       white,
+       white 2px,
+       rgb(228, 231, 198) 1px,
+       rgb(207, 189, 189) 3px /* determines size */
+     ); 
+}
+
+#bottom
+{
+    float: left;
+    width: 200px;
+}
+
+#van
+{
+    float: left;
+    width: 70px;
+}
+
+#vanname
+{
+    font-size: 1.5em;
+    margin-left: 50px;
+    margin-top:auto;
+    margin-bottom: auto;
+    width: 200px;
+}
+
+#words
+{
+    display: inline;
+}
